@@ -1,6 +1,6 @@
 ﻿1
 00:00:00,000 --> 00:00:30,000
-<font color="#008000"><font color=magenta>Nguồn: Nguyễn Thanh Lâm
+<font color="#008000"><font color=magenta>Nguồn: Nguyễn Thanh
 <font color=yellow>Chúc các bạn xem phim vui vẻ!
 </font>
 
