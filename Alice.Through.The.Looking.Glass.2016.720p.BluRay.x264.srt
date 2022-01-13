@@ -1,4 +1,10 @@
-﻿1
+0
+00:00:00,000 --> 00:00:10,000
+<font color="#008000"><font color=magenta>Nguồn: Nguyễn Thanh Lâm
+<font color=yellow> Chúc các bạn xem phim vui vẻ!
+</font>
+
+1
 00:00:53,330 --> 00:00:55,730
 [London Diệu Kì]
 
